@@ -1,3 +1,5 @@
+#usage #kotoba
+
 https://chat.deepseek.com/share/xee4rbny90p1whlisj
 
 Слово **れいう** записывается кандзи как **冷雨**.
