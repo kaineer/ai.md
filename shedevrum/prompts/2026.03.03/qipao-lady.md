@@ -1,18 +1,28 @@
 # Subject & Pose
- * A plus-size pinup model, looking drunk and dreamy, is squatting.
+- plus-size pinup model
+- drunk expression
+- dreamy eyes
+- squatting position
 
 # Clothing & Details
- * split dark-grey qipao
- * dark-grey hold-ups
+- split qipao
+- dark-grey fabric
+- dark-grey hold-ups
 
 # Camera & Angle
- * Front view
- * owest angle possible
- * POV looking up from below
+- front view
+- lowest angle
+- POV from below
+- worm's-eye view
 
 # Setting & Lighting
- * Background is Osaka Castle in autumn with colorful foliage
- * ground is shining brightly with a wet or reflective surface
+- location: Osaka Castle
+- season: autumn
+- foliage: colorful
+- ground: shining brightly
+- surface: wet, reflective
 
 # Style & Render
- * Photorealism, mixed with the aesthetic of François Boucher and Hajime Sorayama.
+- photorealism
+- francois boucher aesthetic
+- hajime sorayama aesthetic
