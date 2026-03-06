@@ -1,4 +1,14 @@
-#erotica
-bulging bottom, flourishing bosom, on all four, alberto vargas, sorayama hajime, photorealism, botanical ambience,
+# Subject & Pose
+- on all fours
+- bulging bottom
+- flourishing bosom
 
-bulging bottom, flourishing bosom, on all four, alberto vargas, sorayama hajime, photorealism, powdered sugar and cinnamon, botanical ambience,
+# Style & Render
+- alberto vargas
+- hajime sorayama
+- photorealism
+
+# Atmosphere & Details
+- powdered sugar
+- cinnamon
+- botanical ambience

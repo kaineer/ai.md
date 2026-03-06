@@ -1,0 +1,16 @@
+curl 'https://assets.grok.com/users/52abda61-a297-4596-a6a3-099750383b92/generated/ced2f487-2fd0-4ab6-9618-4921917394a5/image.jpg?cache=1' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -b 'sso-rw=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOGFjYmI1NmYtZWIzZS00Y2M2LTlkOTEtZDU0ODczZTMzODY2In0.wMamKP51E0ilwGrdtmuTTYWmmEeRHsidRvNo9S5QEhs; sso=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOGFjYmI1NmYtZWIzZS00Y2M2LTlkOTEtZDU0ODczZTMzODY2In0.wMamKP51E0ilwGrdtmuTTYWmmEeRHsidRvNo9S5QEhs; x-userid=52abda61-a297-4596-a6a3-099750383b92; __cf_bm=ZDE26tV2WrUSYwPi.AqprD1_jcMMEyyuvh7pzNatF_I-1772691392-1.0.1.1-snbEvWc_3xH2IkfLck2Yq7cJcVBGoOWSfIs62llva0KSDEYO23e2s_cyJJr4Q2RE8w9whYIbo6bUOGJ1AhmkWnpdDPKhrOv05txvnMKnAYw; mp_ea93da913ddb66b6372b89d97b1029ac_mixpanel=%7B%22distinct_id%22%3A%2252abda61-a297-4596-a6a3-099750383b92%22%2C%22%24device_id%22%3A%2288eb83d2-8457-4b01-9f6c-917c5a8cf533%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22%24user_id%22%3A%2252abda61-a297-4596-a6a3-099750383b92%22%7D; cf_clearance=BgJk8XomwOsJul1AteIKCDqvJ72mYr5ZEpPTIDgqqp8-1772691393-1.2.1.1-59ulGF796dSnqucKLsRDcJxEIrKwit_.VeFER2fRqOHiByRjUVM5nq2AFvD4vQLEmMohP57dqt4bt4Uz.6o0.ToTYxd5mnp6HCzhRvul1ThaSIz6uTa2l72_b5m.0sAXOB9fTar8o7T7XgZiJqB.yDWt2bYEqBA2aPudJn5S0LrdnVZn1vfbGNWZkLNnPDGJ3wQITE5sG7Bewiise0gU8yN4bZIAtUh7_jkJryhkCKY' \
+  -H 'pragma: no-cache' \
+  -H 'priority: i' \
+  -H 'referer: https://grok.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Brave";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
