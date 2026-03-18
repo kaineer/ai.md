@@ -1,6 +1,7 @@
 #cat #gohua
 ## Subject & Pose
-* humanized traveling cat
+* humanized vagabond cat
+* old, tattered clothes
 
 ## Style & Technique
 * Gongbi
