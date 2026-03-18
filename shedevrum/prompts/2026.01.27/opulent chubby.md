@@ -1,0 +1,1 @@
+An opulent chubby sister sororitas in a dynamic pose, tight robe made from semi-transparent milky veil, surreal eerie atmosphere, frills and ribbons, white semi-transparent zuave pants, captured from lowest-angle perspective, photorealism.
