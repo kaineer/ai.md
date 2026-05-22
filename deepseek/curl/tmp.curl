@@ -1,0 +1,2 @@
+curl 'https://chat.deepseek.com/api/v0/chat/history_messages?chat_session_id=47d0d30d-7cca-4e74-8ffa-c51b0c0d6b2d' \
+  -H 'authorization: Bearer K6Kw5xOPerT1ollTjmiqu1Q+UCImuhYfc5tnjlV56mdKKxnFJNzffCpk8PT5lM8s'
