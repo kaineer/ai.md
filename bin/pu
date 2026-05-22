@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# What: Paste to uuid.md
+
+CLIPBOARD="$(xsel -o)"
+if [[ "$CLIPBOARD" != "" ]]; then
+  UUID="$(uuidgen)"
+  DAY="$(date +%Y/%m/%d)"
+  MON="$(date +%Y/%m)"
+  YEAR="$(date +%Y)"
+
+  mkdir -p "$DAY"
+  mkdir -p "$MON/index"
+  mkdir -p "$YEAR/index"
+  mkdir -p "index"
+
+  echo "$CLIPBOARD" > "index/$UUID.md"
+  ln -s "../../../../index/$UUID.md" "$DAY/$UUID.md"
+  ln -s "../../../index/$UUID.md" "$MON/index/$UUID.md"
+  ln -s "../../index/$UUID.md" "$YEAR/index/$UUID.md"
+fi
+
